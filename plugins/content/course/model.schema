@@ -566,7 +566,7 @@
       "isSetting": true,
       "inputType": "Text",
       "validators": [],
-      "title": "Classes"
+      "title": "Класи"
     },
     "_isSelected": {
       "type": "boolean",
