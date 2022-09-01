@@ -9,6 +9,7 @@ var server = module.exports = express();
 
 server.get('/lang/:lang', function (req, res, next) {
   var lang = req.params.lang; // ie 'en' for /lang/en
+  lang = 'uk';
   var filename = path.join(configuration.serverRoot, Constants.Folders.Temp, 'lang', lang + '.json');
   fs.exists(filename, function(exists) {
     if(!exists) {
