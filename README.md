@@ -1,3 +1,5 @@
+# This is not the original repository, it is a clone for testing UI localization. Errors are possible. The link to the original repository is [here](https://github.com/adaptlearning/adapt_framework).
+
 # Adapt Authoring Tool
 
 [![Build Status](https://secure.travis-ci.org/adaptlearning/adapt_authoring.png)](http://travis-ci.org/adaptlearning/adapt_authoring) [![Join the chat at https://gitter.im/adaptlearning/adapt_authoring](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/adaptlearning/adapt_authoring?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
