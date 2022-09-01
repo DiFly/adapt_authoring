@@ -1,0 +1,9 @@
+{
+  "app.scaffold": {
+    "general": "Загальні",
+    "properties": "Властивості",
+    "settings": "Налаштування",
+    "extensions": "Розширення",
+    "colourPickerCancel": "Відмінити вибір"
+  }
+}
