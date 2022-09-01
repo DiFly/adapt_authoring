@@ -41,3 +41,17 @@ See [Contributing to the Adapt authoring tool](https://github.com/adaptlearning/
 
 ## License
 <a href="https://community.adaptlearning.org/" target="_blank"><img src="https://github.com/adaptlearning/documentation/blob/master/04_wiki_assets/plug-ins/images/adapt-logo-mrgn-lft.jpg" alt="adapt learning logo" align="right"></a>  Adapt is licensed under the [GNU General Public License, Version 3](https://github.com/adaptlearning/adapt_authoring/blob/master/LICENSE).
+
+### Installation
+
+```bash
+npm install --production
+```
+
+```bash
+node install
+```
+
+```bash
+node server
+```
